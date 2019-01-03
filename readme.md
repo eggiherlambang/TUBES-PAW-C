@@ -1,3 +1,7 @@
+Alwan Muhtarom	1167050022
+Eggi Herlambang	1167050054
+Fahni Amsyari	1167050058
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
